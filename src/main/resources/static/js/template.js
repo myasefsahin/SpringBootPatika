@@ -1,0 +1,1 @@
+alert("merhabalar javascript ")
