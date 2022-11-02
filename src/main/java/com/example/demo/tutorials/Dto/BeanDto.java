@@ -1,4 +1,4 @@
-package com.example.demo.Dto;
+package com.example.demo.tutorials.bean.Dto;
 
 
 import lombok.AllArgsConstructor;

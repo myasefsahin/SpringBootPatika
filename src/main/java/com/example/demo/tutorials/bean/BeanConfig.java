@@ -1,6 +1,6 @@
-package com.example.demo.bean;
+package com.example.demo.tutorials.bean;
 
-import com.example.demo.Dto.BeanDto;
+import com.example.demo.tutorials.bean.Dto.BeanDto;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
